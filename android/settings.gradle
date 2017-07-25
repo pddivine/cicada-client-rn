@@ -1,0 +1,3 @@
+rootProject.name = 'cicada_clients_rn'
+
+include ':app'
